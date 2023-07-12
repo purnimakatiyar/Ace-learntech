@@ -1,5 +1,5 @@
 import React from 'react'
-
+// import logo from '../assets/logo.png';
 import "./header.css";
 
 
@@ -43,7 +43,7 @@ const Header = () => {
     <div className="container">
         <div className="nav__wrapper">
             <div className="logo">
-                <h2>Learntech</h2>
+            <img src="./logo.png" width={150} height={50} alt="no-img" />
               
 </div>
 
