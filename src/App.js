@@ -2,14 +2,16 @@
 import './App.css';
 
 import Header from "./components/Header/Header";
+import Home from './components/Home/home';
 // import Main from "./Main";
 import Main from "./components/Main"
 
 function App() {
   return (
     <>
-      <Header />,
-      <Main/>,
+      <Header />
+      <Home/>
+      <Main/>
 
     </>
   )
