@@ -43,7 +43,8 @@ const Header = () => {
     <div className="container">
         <div className="nav__wrapper">
             <div className="logo">
-            <img src="./logo.png" width={150} height={50} alt="no-img" />
+            {/* <img src="./logo.png" width={150} height={50} alt="no-img" /> */}
+            <img src="./logonew.png" width={150} height={50} alt="no-img" />
               
 </div>
 
