@@ -45,3 +45,8 @@
 .secondary_btn{
     background: var(--btn-secondary-bg);
 }
+
+.hero_content h3{
+    font-size: 1.5rem;
+    color: #fff;
+}
