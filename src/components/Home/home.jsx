@@ -1,6 +1,7 @@
 import React from "react";
 import "./home.css";
-import img from "../../logo.png";
+// import img from "../../logonew.png";
+// import ba from "../../back.jpg";
 import Typewriter from "typewriter-effect";
 
 const Home=()=>{
@@ -13,7 +14,8 @@ const Home=()=>{
                             <div>
                                 <h2>Start Your Journey</h2>
                                 <h2>With</h2>
-                                <h2 className="highlight">Learn Tech</h2>
+                              
+                                <h2 className="highlight">Ace Learn Tech</h2>
                             </div>
                             {/* <p className="description">
                                 All resources in one place</p> */}
@@ -50,7 +52,7 @@ const Home=()=>{
                             </div>
                         </div>
                         <div className="img_s">
-                            <img src={img} alt=" " />
+                        
                         </div>
                     </div>
                 </div>
