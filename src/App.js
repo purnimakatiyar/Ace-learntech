@@ -7,6 +7,7 @@ import Home from './components/Home/home';
 // import Main from "./components/Main"
 import Services from './components/UI/Services';
 import About from "./components/UI/About";
+import Team from "./components/UI/Team";
 
 
 function App() {
@@ -17,6 +18,8 @@ function App() {
  
 <Services/>
 <About/>
+<Team/>
+
     </>
   )
 
