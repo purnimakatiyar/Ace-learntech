@@ -47,8 +47,8 @@ const Home=()=>{
 
 
                             <div className="hero_btns">
-                                <button className="primary_btn">Get Started</button>
-                                <button className="secondary_btn">Discover More</button>
+                                <button className="primary__btn">Get Started</button>
+                                <button className="secondary__btn">Discover More</button>
                             </div>
                         </div>
                         <div className="img_s">

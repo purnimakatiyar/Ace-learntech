@@ -35,17 +35,17 @@ margin-top: 30px;
     padding-bottom: 5px;
     margin-bottom: 25px;
 }
-.primary_btn, .secondary_btn{
+.primary__btn, .secondary__btn{
     padding: 0.6rem 1.5rem;
     border: none;
     color: #fff;
     border-radius: 0.4rem;
 }
-.primary_btn{
+.primary__btn{
     background: var(--btn-primary-bg);
 }
 
-.secondary_btn{
+.secondary__btn{
     background: var(--btn-secondary-bg);
 }
 
