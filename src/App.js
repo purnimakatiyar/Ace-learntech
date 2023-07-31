@@ -8,6 +8,7 @@ import Home from './components/Home/home';
 import Services from './components/UI/Services';
 import About from "./components/UI/About";
 import Team from "./components/UI/Team";
+import Newsletter from "./components/UI/Newsletter";
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
 <Services/>
 <About/>
 <Team/>
+<Newsletter/>
 
     </>
   )
