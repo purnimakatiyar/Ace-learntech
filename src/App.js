@@ -9,6 +9,7 @@ import Services from './components/UI/Services';
 import About from "./components/UI/About";
 import Team from "./components/UI/Team";
 import Newsletter from "./components/UI/Newsletter";
+import Footer from "./components/UI/Footer";
 
 
 function App() {
@@ -21,7 +22,7 @@ function App() {
 <About/>
 <Team/>
 <Newsletter/>
-
+<Footer/>
     </>
   )
 

@@ -20,7 +20,7 @@ const Team = () => {
                 <h4>Purnima Katiyar</h4>
                 <p className="description">Final Year Undergrad</p>
                 <div className="team__member-social">
-                    <span><i class="ri-linkedin-line"></i></span>
+                    <span><a href="https://www.linkedin.com/in/purnima-katiyar-6a1a92134/"><i class="ri-linkedin-line"></i></a></span>
                     <span><i class="ri-twitter-line"></i></span>
                 </div>
             </div>
